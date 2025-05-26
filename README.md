@@ -1,8 +1,8 @@
-Description
+# Description
 
 A Python program that uses the cryptography library to encrypt and decrypt text files using a secret key. The program also includes options to save the output as a new file.
 
-How to Use the Program
+# How to Use the Program
 
     1.Generate a Key:
         run the program and choose option 1.
@@ -23,7 +23,7 @@ How to Use the Program
         enter the key file (e.g., mykey.key).
         the file will be decrypted and saved as decrypted.txt.
 
-Notes
+# Notes
 
 The key is essential for both encryption and decryption. Keep it secure.
 The program assumes that the input file is a text file, but it can handle any binary file.
