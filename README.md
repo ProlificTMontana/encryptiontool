@@ -1,4 +1,6 @@
-# Description
+## Encryption Tool
+
+# Overview
 
 A Python program that uses the cryptography library to encrypt and decrypt text files using a secret key. The program also includes options to save the output as a new file.
 
